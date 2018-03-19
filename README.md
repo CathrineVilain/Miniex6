@@ -1,4 +1,4 @@
-# Miniex6
+# Miniex6 - I'm not done writing yet! 
 I have made a generative program using the random function, a  for loop and conditional statements. I also used the principle of classes and objects which we learned last week. The rules of my program are: 
 
 1. The circles are generated at random positions.  
