@@ -4,8 +4,10 @@ I have made a generative program using the random function, a  for loop and cond
 1. The circles are generated at random positions.  
 2. The circles are generated in random colors. 
 3. The circles are generated in random sizes. 
-4. The circles move along the x-axis until they hit the edge of the screen
+4. The circles move forwards along the x-axis until they hit the edge of the screen
 5. When the circles hit the edge of the screen they go backwards with a slight drop in the y-axis causing them to move diagonally. 
+
+The circles keep going back and forwards leaving trails of the previous circle, making a pattern as they go. When they exit the canvas at the bottom the program stops generating annything new. 
 
 ![alt text](miniex6.JPG)
 https://cdn.rawgit.com/CathrineVilain/Miniex6/c0182eef/p5/empty-example/index.html
